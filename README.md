@@ -6,7 +6,7 @@
 |**[Martha Carolina Mantilla Cárdenas](https://github.com/carolinamantilla)**  | Scrum Master - Administradora De BD - Desarrolladora |
 |**[Keidy Mercado Sierra](https://github.com/kemesy07)**  | Product Owner - Analista - Desarrolladora |
 
-## **Descripcion del Proeycto**
+## **Descripcion del Proyecto**
 Project Universe es una pagina web que permite la gestión de proyectos de investigación. 
 
 ## **Descripcion del Backend**
